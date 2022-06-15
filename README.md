@@ -1,6 +1,8 @@
 # XSAMPA API
 A simple SAMPA to IPA converter based on an API architecture
 
+based on http://phonetictools.altervista.org/phonverter/
+
 ## Requiement
 1. node js (https://nodejs.org/en/)
 
